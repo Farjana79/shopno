@@ -1,0 +1,591 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+        /* header */
+        .header {
+            padding: 10px 0;
+        }
+           .menu {
+            margin-top: 10px;
+        }
+        .logo .mg {
+            max-width: 75%;
+        }
+        .res_btn {
+            font-size: 15px;
+        }
+    
+        /* header */
+
+       /* banner start */
+       .banner {
+        padding: 40px 0;
+    }
+    .b_text h4 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .b_icon i {
+        margin: 20px 0;
+        font-size: 80px;
+    }
+   .b_bttn {
+    padding: 6px 15px;
+    }
+    .b_bttn a {
+
+        font-size: 13px;
+    
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding-bottom: 50px;
+    }
+    .common_heading {
+        padding: 50px 0;
+    }
+    .common_heading h1 {
+        font-size: 20px;
+    }
+    .common_heading p {
+
+        font-size: 16px;
+   
+    }
+    .c_ind [data-bs-target] {
+        width: 12px;
+        height: 12px;
+  
+    }
+    .a_text{
+        text-align: center;
+    }
+    .common_blog {
+        margin-top: 60px;
+    }
+    .common_blog h2 {
+
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .common_blog p {
+        line-height: 27px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    /* about end */
+
+    /* feature start */
+       .featured{
+        padding-bottom: 50px;
+    }
+    .b-img {
+        margin-bottom: 20px;
+    }
+    /* feature end */
+
+    /* service start */
+    .s_item {
+
+        margin-bottom: 20px;
+    }
+    .s_md {
+        padding-top: 60px;
+        padding-right: 40px;
+        padding-left: 50px;
+    }
+    .s_md .s_text {
+        padding: 60px 10px 75px 10px;
+    }
+    /* service end */
+
+     /* team start */
+        .team{
+        padding-bottom: 50px;
+        }
+        .team_member img{}
+        .team_member{
+         margin-bottom: 20px;
+        }
+    
+        /* team end */
+
+        
+    /* testimonial start */
+      .testimonial {
+
+        padding-bottom: 50px;
+       }
+       .right_text {
+           margin-top: 40px;
+           padding: 50px 10px 50px 10px;
+       }
+               
+       .right_text h2 {
+               
+        font-size: 18px;
+        margin-bottom: 20px;
+        }
+       .right_text p {
+       
+        line-height: 27px;
+        word-spacing: 4px;
+       letter-spacing: 1px;
+       }
+       .t_round {
+           left: 0;
+           bottom: -8%;
+       }
+   
+       .t_cp, .t_cn {
+   
+           display: none;
+       }
+       .left_img{
+        text-align: center;
+       }
+       /* testimonial end */
+        /* way start */
+    .way{
+        padding: 50px 0;
+    }
+    /* way end */
+
+    /* contact start */
+    .contact{
+        padding: 50px 0;
+    }
+    .google_form {
+
+        margin-top: 30px;
+    }
+    .contact_form{
+        padding: 40px 30px;
+    }
+    /* contact end */
+
+    /* footer */
+
+    footer{
+
+        padding: 40px 0;
+    }
+    /* footer */
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+       /* header */
+       .menu {
+        margin-top: 15px;
+    }
+    .logo .mg {
+        max-width: 85%;
+    }
+
+    /* header */
+       /* banner start */
+       .banner {
+        padding: 50px 0;
+    }
+    .b_text h4 {
+        font-size: 25px;
+    }
+    .b_icon i {
+        margin: 20px 0;
+        font-size: 80px;
+    }
+    .b_bttn {
+        padding: 10px 20px;
+
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding-bottom: 60px;
+    }
+    .common_heading {
+        padding: 60px 0;
+    }
+    .common_heading h1 {
+        font-size: 25px;
+
+    }
+    .common_heading p {
+
+        font-size: 16px;
+   
+    }
+    .c_ind [data-bs-target] {
+        width: 13px;
+        height: 13px;
+  
+    }
+    .a_text{
+        text-align: center;
+    }
+    .common_blog {
+        margin-top: 60px;
+    }
+    .common_blog h2 {
+
+        margin-bottom: 10px;
+    }
+    .common_blog p {
+        line-height: 27px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    /* about end */
+
+       /* feature start */
+       .featured{
+        padding-bottom: 60px;
+    }
+    .b-img {
+        margin-bottom: 20px;
+    }
+    /* feature end */
+
+    /* service start */
+    .s_item {
+
+        margin-bottom: 20px;
+    }
+    .s_md {
+        padding-top: 60px;
+        padding-right: 40px;
+        padding-left: 50px;
+    }
+    .s_md .s_text {
+        padding: 60px 10px 75px 10px;
+    }
+    /* service end */
+
+    /* team start */
+    .team{
+    padding-bottom: 60px;
+    }
+    .team_member img{}
+    .team_member{
+     margin-bottom: 20px;
+    }
+
+    /* team end */
+
+    /* testimonial start */
+    .testimonial {
+
+     padding-bottom: 60px;
+    }
+    .right_text {
+        margin-top: 40px;
+        padding: 50px 10px 50px 10px;
+    }
+            
+    .right_text h2 {
+            
+     font-size: 20px;
+     margin-bottom: 20px;
+     }
+    .right_text p {
+    
+     line-height: 27px;
+     word-spacing: 4px;
+    letter-spacing: 1px;
+    }
+    .t_round {
+        left: 0;
+        bottom: -9%;
+    }
+
+    .t_cp, .t_cn {
+
+        display: none;
+    }
+    .left_img{
+     text-align: center;
+    }
+    /* testimonial end */
+     /* way start */
+     .way{
+        padding: 60px 0;
+    }
+    /* way end */
+
+      /* contact start */
+      .contact{
+        padding: 60px 0;
+    }
+    .google_form {
+
+        margin-top: 30px;
+    }
+    /* contact end */
+
+    /* footer */
+
+    footer{
+
+        padding: 50px 0;
+    }
+    /* footer */
+ }
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+      /* header */
+    .menu {
+        margin-top: 15px;
+    }
+    /* header */
+
+    /* banner start */
+    .banner {
+        padding: 60px 0;
+    }
+    .b_text h4 {
+        font-size: 30px;
+    }
+    .b_icon i {
+        margin: 30px 0;
+        font-size: 100px;
+    }
+    .b_bttn {
+        padding: 15px 40px;
+
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding-bottom: 80px;
+    }
+    .common_heading {
+        padding: 80px 0;
+    }
+    .common_heading h1 {
+        font-size: 30px;
+
+    }
+    .a_text{
+        text-align: center;
+    }
+    .common_blog {
+        margin-top: 60px;
+    }
+    .common_blog h2 {
+
+        margin-bottom: 10px;
+    }
+    .common_blog p {
+        line-height: 27px;
+        margin-bottom: 15px;
+        text-align: left;
+    }
+    /* about end */
+
+    /* feature start */
+       .featured{
+        padding-bottom: 80px; 
+    }
+    .b-img {
+        margin-bottom: 20px;
+    }
+    /* feature end */
+
+    /* service start */
+    .s_item {
+
+        margin-bottom: 20px;
+    }
+    .s_md {
+        padding-top: 60px;
+        padding-right: 40px;
+        padding-left: 50px;
+    }
+    .s_md .s_text {
+        padding: 60px 10px 75px 10px;
+    }
+    /* service end */
+
+    /* team start */
+    .team{
+    padding-bottom: 80px;
+    }
+    .team_member img{}
+    .team_member{
+    margin-bottom: 15px;
+    }
+
+    /* team end */
+
+        /* testimonial start */
+        .testimonial {
+
+            padding-bottom: 80px;
+        }
+        .right_text {
+            margin-top: 37px;
+            padding: 25px 10px 20px 10px;
+        }
+        
+        .right_text h2 {
+        
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+        .right_text p {
+
+            line-height: 25px;
+            word-spacing: 4px;
+            letter-spacing: 1px;
+        }
+        .t_cp, .t_cn {
+            bottom: -8%;
+        }
+        /* testimonial end */
+         /* way start */
+    .way{
+        padding: 80px 0;
+    }
+    /* way end */
+
+
+    /* contact start */
+      .contact{
+        padding: 80px 0;
+    }
+    /* contact end */
+
+    /* footer */
+
+    footer{
+
+        padding: 60px 0;
+    }
+    /* footer */
+  
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    /* banner start */
+    .banner {
+        padding: 80px 0;
+    }
+    .b_text h4 {
+        font-size: 30px;
+    }
+
+    .b_icon i {
+        margin: 35px 0;
+        font-size: 110px;
+    }
+    .b_bttn {
+        padding: 15px 50px;
+
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding-bottom: 100px;
+    }
+    .common_heading {
+        padding: 100px 0;
+    }
+    .common_heading h1 {
+        font-size: 35px;
+
+    }
+    /* about end */
+
+    /* feature start */
+    .featured{
+        padding-bottom: 100px;
+    }
+    .b-img {
+        margin-bottom: 20px;
+    }
+    /* feature end */
+
+    /* service start */
+    .s_item {
+
+        margin-bottom: 20px;
+    }
+    .s_item1{
+        padding: 180px 60px 31px 60px;
+     }
+     .s_item2 {
+        padding: 180px 60px 40px 60px;
+    }
+     .s_item5 {
+        padding: 180px 60px 20px 60px;
+    }
+     .s_item5 .s_btn{
+        margin-top: 10px;
+    }
+
+    
+
+    /* service end */
+
+    /* team start */
+    .team{
+
+    padding-bottom: 10px;
+    }
+    .team_member img{}
+    .team_member{
+   margin-bottom: 10px;
+    }
+
+    /* team end */
+
+    /* testimonial start */
+    .testimonial {
+
+        padding-bottom: 100px;
+    }
+    .right_text {
+        padding: 50px 60px 45px 60px;
+        margin-top: 40px;
+    }
+    .right_text h2 {
+        font-size: 20px;
+
+    }
+    .t_cp, .t_cn {
+        bottom: -10%;
+    }
+    /* testimonial end */
+
+    /* way start */
+    .way{
+        padding: 100px 0;
+    }
+    /* way end */
+
+      /* contact start */
+      .contact{
+        padding: 100px 0;
+    }
+    /* contact end */
+
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+ }
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+    
+ }
